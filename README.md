@@ -1,5 +1,7 @@
 This npm module test and publishing environment is based on [create-react-library](https://github.com/transitive-bullshit/create-react-library) and updated for react hooks (v.16.8.6) and babel packages/helpers for babel 7+.
 
+** Package will not work correctly unless first following the steps listed below for proper setup **
+
 ## Install Instructions
  - `npm install` in project root directory.
  - In new tab, cd from project root directory to `/example`.
